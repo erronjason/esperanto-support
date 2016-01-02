@@ -7,14 +7,14 @@
 #SingleInstance force
 
 !+C::Send {U+0108} ;Ĉ
-!c::Send {U+0109} ;ĉ
+!c::Send {U+0109}  ;ĉ
 !+G::Send {U+011C} ;Ĝ
-!g::Send {U+011D} ;ĝ
+!g::Send {U+011D}  ;ĝ
 !+H::Send {U+0124} ;Ĥ
-!h::Send {U+0125} ;ĥ
+!h::Send {U+0125}  ;ĥ
 !+J::Send {U+0134} ;Ĵ
-!j::Send {U+0135} ;ĵ
+!j::Send {U+0135}  ;ĵ
 !+S::Send {U+015C} ;Ŝ
-!s::Send {U+015D} ;ŝ
+!s::Send {U+015D}  ;ŝ
 !+U::Send {U+016C} ;Ŭ
-!u::Send {U+016D} ;ŭ
+!u::Send {U+016D}  ;ŭ
